@@ -6,8 +6,8 @@ with open('README.md', 'r') as fh:
 setuptools.setup(
     name='project_hgh',
     version='2024.8.28',
-    author='Harini', 'Gowri Shankar', 'Habeeb'
-    author_email='harinithummala1508@gmail.com','shankarmugadi3@gmail.com','habeebdesmuk123@gmail.com'
+    author='Harini, Gowri Shankar, Habeeb',
+    author_email="harinithummala1508@gmail.com",
     description='This software is being developed at Madanapalle Institute of technology and science, Madanapalle',
     long_description=long_description,
     long_description_content_type='text/markdown',
